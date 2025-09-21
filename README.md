@@ -1,7 +1,7 @@
 # 📈 Stock Portfolio Tracker
 <br>
 A beginner-friendly Python script to calculate total investment value based on hardcoded stock prices.
------
+
 
 ## Features
 - Input stock symbols and quantities
